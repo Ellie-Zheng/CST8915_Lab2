@@ -13,6 +13,14 @@
 
 ---
 
+## Links to the Three Service Repositories
+
+- [`order-service`](https://github.com/Ellie-Zheng/cst8915-lab2-order-service)
+- [`product-service`](https://github.com/Ellie-Zheng/cst8915-lab2-product-service)
+- [`store-front`](https://github.com/Ellie-Zheng/cst8915-lab2-store-front)
+
+---
+
 ## Reflection Questions
 
 ### What changes did you make to the `order-service` and `product-service` to comply with the Configurations and Backing Services factors of the 12-Factor App methodology?
